@@ -33,7 +33,7 @@
        <!-- <hadoop.version>3.0.0-cdh6.0.1</hadoop.version>-->
        <!-- <hive.version>2.1.1-cdh6.0.1</hive.version>-->
         <hadoop.version>3.0.0</hadoop.version>
-        <hive.version>1.2.1</hive.version>
+        <hive.version>2.3.4</hive.version>
     </properties>
     <dependencies>
         <dependency>
