@@ -32,7 +32,7 @@
         <encoding>UTF-8</encoding>
        <!-- <hadoop.version>3.0.0-cdh6.0.1</hadoop.version>-->
        <!-- <hive.version>2.1.1-cdh6.0.1</hive.version>-->
-        <hadoop.version>3.0.0</hadoop.version>
+        <hadoop.version>3.1.4</hadoop.version>
         <hive.version>1.2.1</hive.version>
     </properties>
     <dependencies>
